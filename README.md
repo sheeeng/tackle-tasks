@@ -47,8 +47,8 @@ If you prefer not to install [`just`](https://github.com/casey/just), use [`npm`
 
 ## Deployments
 
-- [https://tackle-tasks.web.app/](https://tackle-tasks.web.app/)
-- [https://tackle-tasks.firebaseapp.com/](https://tackle-tasks.firebaseapp.com/)
+- [tackle-tasks.web.app/](https://tackle-tasks.web.app/)
+- [tackle-tasks.firebaseapp.com/](https://tackle-tasks.firebaseapp.com/)
 - [tackle-tasks.netlify.app](https://tackle-tasks.netlify.app/)
 - [tackle-tasks.vercel.app](https://tackle-tasks.vercel.app/)
 - [sheeeng.github.io/tackle-tasks](https://sheeeng.github.io/tackle-tasks/)
