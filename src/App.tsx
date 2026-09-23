@@ -25,10 +25,10 @@ export default function App() {
         <div className="flex flex-col items-center">
           <h1 className="flex items-center gap-2 text-3xl font-semibold tracking-tight text-slate-900 dark:text-slate-50">
             <CheckSquare className="h-8 w-8" />
-            Track Tasks
+            Tackle Tasks
           </h1>
           <p className="mt-2 text-center text-sm text-slate-500 dark:text-slate-400">
-            Track tasks using Web Storage API's Local Storage.
+            Tackle tasks using Web Storage API's Local Storage.
           </p>
           <div className="mt-4 w-full text-left text-xs text-amber-800 dark:text-amber-300 bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/50 rounded-lg shadow-sm overflow-hidden transition-all duration-200">
             <button
@@ -164,7 +164,7 @@ export default function App() {
           Built from{' '}
           {import.meta.env.VITE_GIT_COMMIT_SHA_8_CHAR ? (
             <a
-              href={`https://github.com/sheeeng/track-tasks/commit/${import.meta.env.VITE_GIT_COMMIT_SHA_8_CHAR}`}
+              href={`https://github.com/sheeeng/tackle-tasks/commit/${import.meta.env.VITE_GIT_COMMIT_SHA_8_CHAR}`}
               target="_blank"
               rel="noopener noreferrer"
               className="text-indigo-500 hover:text-indigo-600 dark:text-indigo-400 dark:hover:text-indigo-300 no-underline transition-colors"

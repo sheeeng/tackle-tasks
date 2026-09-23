@@ -9,7 +9,7 @@ set -o pipefail
 shopt -s inherit_errexit
 
 readonly GITHUB_ENVIRONMENT="vercel"
-readonly REPOSITORY="sheeeng/track-tasks"
+readonly REPOSITORY="sheeeng/tackle-tasks"
 
 GIT_ROOT_DIRECTORY="$(git rev-parse --show-toplevel)"
 readonly GIT_ROOT_DIRECTORY

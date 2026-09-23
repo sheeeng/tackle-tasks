@@ -1,14 +1,14 @@
-# Track Tasks
+# Tackle Tasks
 
-Track Tasks is a simple client-side application built with React and Tailwind CSS that helps you manage your tasks using Web Storage API's Local Storage.
+Tackle Tasks is a simple client-side application built with React and Tailwind CSS that helps you manage your tasks using Web Storage API's Local Storage.
 
 ## Run Locally
 
 1. Clone the repository.
 
     ```shell
-    git clone https://github.com/sheeeng/track-tasks.git
-    cd track-tasks
+    git clone https://github.com/sheeeng/tackle-tasks.git
+    cd tackle-tasks
     ```
 
 2. Install [just](https://github.com/casey/just).
@@ -47,11 +47,11 @@ If you prefer not to install [`just`](https://github.com/casey/just), use [`npm`
 
 ## Deployments
 
-- [https://track-tasks-3bac89b9.web.app/](https://track-tasks-3bac89b9.web.app/)
-- [https://track-tasks-3bac89b9.firebaseapp.com/](https://track-tasks-3bac89b9.firebaseapp.com/)
-- [track-tasks-eight.netlify.app](https://track-tasks-eight.netlify.app/)
-- [track-tasks-eight.vercel.app](https://track-tasks-eight.vercel.app/)
-- [sheeeng.github.io/track-tasks](https://sheeeng.github.io/track-tasks/)
+- [https://tackle-tasks.web.app/](https://tackle-tasks.web.app/)
+- [https://tackle-tasks.firebaseapp.com/](https://tackle-tasks.firebaseapp.com/)
+- [tackle-tasks-eight.netlify.app](https://tackle-tasks-eight.netlify.app/)
+- [tackle-tasks-eight.vercel.app](https://tackle-tasks-eight.vercel.app/)
+- [sheeeng.github.io/tackle-tasks](https://sheeeng.github.io/tackle-tasks/)
 
 ## License
 

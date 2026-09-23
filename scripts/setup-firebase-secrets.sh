@@ -25,8 +25,8 @@ echo "\${TEMPORARY_DIRECTORY}: ${TEMPORARY_DIRECTORY}"
 
 
 readonly GITHUB_ENVIRONMENT="firebase"
-readonly GOOGLE_CLOUD_PROJECT_ID="track-tasks-3bac89b9"
-readonly REPOSITORY="sheeeng/track-tasks"
+readonly GOOGLE_CLOUD_PROJECT_ID="tackle-tasks"
+readonly REPOSITORY="sheeeng/tackle-tasks"
 REPOSITORY_ID="$(gh api "repos/${REPOSITORY}" --jq '.id')"
 readonly REPOSITORY_ID
 readonly SERVICE_ACCOUNT="github-action-${REPOSITORY_ID}@${GOOGLE_CLOUD_PROJECT_ID}.iam.gserviceaccount.com"

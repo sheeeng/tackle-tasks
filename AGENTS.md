@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Track Tasks is a React web application for tracking personal tasks.
+Tackle Tasks is a React web application for tracking personal tasks.
 It persists data using the Web Storage API's Local Storage and
 optionally integrates with the Gemini AI API.
 
